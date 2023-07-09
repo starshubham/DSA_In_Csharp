@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\bin\Debug\netcoreapp3.1\QueuethruCircularLinkedList.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\bin\Debug\netcoreapp3.1\QueuethruCircularLinkedList.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\bin\Debug\netcoreapp3.1\QueuethruCircularLinkedList.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\bin\Debug\netcoreapp3.1\QueuethruCircularLinkedList.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\bin\Debug\netcoreapp3.1\QueuethruCircularLinkedList.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\bin\Debug\netcoreapp3.1\QueuethruCircularLinkedList.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueuethruCircularLinkedList\QueuethruCircularLinkedList\obj\Debug\netcoreapp3.1\QueuethruCircularLinkedList.genruntimeconfig.cache

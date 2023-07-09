@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\bin\Debug\netcoreapp3.1\Deque.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\bin\Debug\netcoreapp3.1\Deque.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\bin\Debug\netcoreapp3.1\Deque.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\bin\Debug\netcoreapp3.1\Deque.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\bin\Debug\netcoreapp3.1\Deque.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\bin\Debug\netcoreapp3.1\Deque.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\Deque\Deque\obj\Debug\netcoreapp3.1\Deque.genruntimeconfig.cache

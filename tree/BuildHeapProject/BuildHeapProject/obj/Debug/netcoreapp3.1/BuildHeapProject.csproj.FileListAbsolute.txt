@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\bin\Debug\netcoreapp3.1\BuildHeapProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\bin\Debug\netcoreapp3.1\BuildHeapProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\bin\Debug\netcoreapp3.1\BuildHeapProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\bin\Debug\netcoreapp3.1\BuildHeapProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\bin\Debug\netcoreapp3.1\BuildHeapProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\bin\Debug\netcoreapp3.1\BuildHeapProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BuildHeapProject\BuildHeapProject\obj\Debug\netcoreapp3.1\BuildHeapProject.genruntimeconfig.cache

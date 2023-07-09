@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\bin\Debug\netcoreapp3.1\AddressCalculationSort.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\bin\Debug\netcoreapp3.1\AddressCalculationSort.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\bin\Debug\netcoreapp3.1\AddressCalculationSort.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\bin\Debug\netcoreapp3.1\AddressCalculationSort.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\bin\Debug\netcoreapp3.1\AddressCalculationSort.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\bin\Debug\netcoreapp3.1\AddressCalculationSort.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\AddressCalculationSort\AddressCalculationSort\obj\Debug\netcoreapp3.1\AddressCalculationSort.genruntimeconfig.cache

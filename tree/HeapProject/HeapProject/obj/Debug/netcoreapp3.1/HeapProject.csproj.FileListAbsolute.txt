@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\bin\Debug\netcoreapp3.1\HeapProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\bin\Debug\netcoreapp3.1\HeapProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\bin\Debug\netcoreapp3.1\HeapProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\bin\Debug\netcoreapp3.1\HeapProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\bin\Debug\netcoreapp3.1\HeapProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\bin\Debug\netcoreapp3.1\HeapProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\HeapProject\HeapProject\obj\Debug\netcoreapp3.1\HeapProject.genruntimeconfig.cache

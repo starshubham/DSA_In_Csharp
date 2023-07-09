@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.genruntimeconfig.cache

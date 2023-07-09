@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\bin\Debug\netcoreapp3.1\HeaderLinkedListProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\bin\Debug\netcoreapp3.1\HeaderLinkedListProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\bin\Debug\netcoreapp3.1\HeaderLinkedListProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\bin\Debug\netcoreapp3.1\HeaderLinkedListProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\bin\Debug\netcoreapp3.1\HeaderLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\bin\Debug\netcoreapp3.1\HeaderLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\HeaderLinkedListProject\HeaderLinkedListProject\obj\Debug\netcoreapp3.1\HeaderLinkedListProject.genruntimeconfig.cache

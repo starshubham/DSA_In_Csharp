@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\BaseConversion\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.genruntimeconfig.cache

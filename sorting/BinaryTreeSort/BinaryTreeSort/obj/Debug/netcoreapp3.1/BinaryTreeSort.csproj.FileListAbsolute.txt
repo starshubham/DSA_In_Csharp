@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\bin\Debug\netcoreapp3.1\BinaryTreeSort.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\bin\Debug\netcoreapp3.1\BinaryTreeSort.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\bin\Debug\netcoreapp3.1\BinaryTreeSort.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\bin\Debug\netcoreapp3.1\BinaryTreeSort.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\bin\Debug\netcoreapp3.1\BinaryTreeSort.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\bin\Debug\netcoreapp3.1\BinaryTreeSort.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\BinaryTreeSort\BinaryTreeSort\obj\Debug\netcoreapp3.1\BinaryTreeSort.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\bin\Debug\netcoreapp3.1\Exponentiation.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\bin\Debug\netcoreapp3.1\Exponentiation.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\bin\Debug\netcoreapp3.1\Exponentiation.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\bin\Debug\netcoreapp3.1\Exponentiation.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\bin\Debug\netcoreapp3.1\Exponentiation.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\bin\Debug\netcoreapp3.1\Exponentiation.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.genruntimeconfig.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Exponentiation\Exponentiation\obj\Debug\netcoreapp3.1\Exponentiation.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\bin\Debug\netcoreapp3.1\MergingProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\bin\Debug\netcoreapp3.1\MergingProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\bin\Debug\netcoreapp3.1\MergingProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\bin\Debug\netcoreapp3.1\MergingProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\bin\Debug\netcoreapp3.1\MergingProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\bin\Debug\netcoreapp3.1\MergingProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergingProject\MergingProject\obj\Debug\netcoreapp3.1\MergingProject.genruntimeconfig.cache

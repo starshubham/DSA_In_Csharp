@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\bin\Debug\netcoreapp3.1\PriorityQueueProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\bin\Debug\netcoreapp3.1\PriorityQueueProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\bin\Debug\netcoreapp3.1\PriorityQueueProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\bin\Debug\netcoreapp3.1\PriorityQueueProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\bin\Debug\netcoreapp3.1\PriorityQueueProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\bin\Debug\netcoreapp3.1\PriorityQueueProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PriorityQueueProject\PriorityQueueProject\obj\Debug\netcoreapp3.1\PriorityQueueProject.genruntimeconfig.cache

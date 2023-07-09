@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\BinarySearch\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache

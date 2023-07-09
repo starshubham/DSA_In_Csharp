@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\bin\Debug\netcoreapp3.1\LinearSearchWithSentinel.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\bin\Debug\netcoreapp3.1\LinearSearchWithSentinel.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\bin\Debug\netcoreapp3.1\LinearSearchWithSentinel.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\bin\Debug\netcoreapp3.1\LinearSearchWithSentinel.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\bin\Debug\netcoreapp3.1\LinearSearchWithSentinel.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\bin\Debug\netcoreapp3.1\LinearSearchWithSentinel.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\searching\LinearSearchWithSentinel\LinearSearchWithSentinel\obj\Debug\netcoreapp3.1\LinearSearchWithSentinel.genruntimeconfig.cache

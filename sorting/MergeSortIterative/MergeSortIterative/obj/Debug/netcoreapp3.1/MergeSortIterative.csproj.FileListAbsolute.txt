@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\bin\Debug\netcoreapp3.1\MergeSortIterative.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\bin\Debug\netcoreapp3.1\MergeSortIterative.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\bin\Debug\netcoreapp3.1\MergeSortIterative.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\bin\Debug\netcoreapp3.1\MergeSortIterative.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\bin\Debug\netcoreapp3.1\MergeSortIterative.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\bin\Debug\netcoreapp3.1\MergeSortIterative.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortIterative\MergeSortIterative\obj\Debug\netcoreapp3.1\MergeSortIterative.genruntimeconfig.cache

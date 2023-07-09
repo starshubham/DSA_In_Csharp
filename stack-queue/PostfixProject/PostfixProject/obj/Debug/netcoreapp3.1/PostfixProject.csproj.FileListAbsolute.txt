@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\bin\Debug\netcoreapp3.1\PostfixProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\bin\Debug\netcoreapp3.1\PostfixProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\bin\Debug\netcoreapp3.1\PostfixProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\bin\Debug\netcoreapp3.1\PostfixProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\bin\Debug\netcoreapp3.1\PostfixProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\bin\Debug\netcoreapp3.1\PostfixProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\PostfixProject\PostfixProject\obj\Debug\netcoreapp3.1\PostfixProject.genruntimeconfig.cache

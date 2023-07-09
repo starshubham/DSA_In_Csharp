@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\netcoreapp3.1\DoubleLinkedListProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\netcoreapp3.1\DoubleLinkedListProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\netcoreapp3.1\DoubleLinkedListProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\netcoreapp3.1\DoubleLinkedListProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\netcoreapp3.1\DoubleLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\bin\Debug\netcoreapp3.1\DoubleLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\DoubleLinkedListProject\DoubleLinkedListProject\obj\Debug\netcoreapp3.1\DoubleLinkedListProject.genruntimeconfig.cache

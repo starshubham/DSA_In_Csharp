@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\bin\Debug\netcoreapp3.1\QueueArrayProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\bin\Debug\netcoreapp3.1\QueueArrayProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\bin\Debug\netcoreapp3.1\QueueArrayProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\bin\Debug\netcoreapp3.1\QueueArrayProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\bin\Debug\netcoreapp3.1\QueueArrayProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\bin\Debug\netcoreapp3.1\QueueArrayProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueArrayProject\QueueArrayProject\obj\Debug\netcoreapp3.1\QueueArrayProject.genruntimeconfig.cache

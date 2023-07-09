@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\bin\Debug\netcoreapp3.1\QueueLinkedListProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\bin\Debug\netcoreapp3.1\QueueLinkedListProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\bin\Debug\netcoreapp3.1\QueueLinkedListProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\bin\Debug\netcoreapp3.1\QueueLinkedListProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\bin\Debug\netcoreapp3.1\QueueLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\bin\Debug\netcoreapp3.1\QueueLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\QueueLinkedListProject\QueueLinkedListProject\obj\Debug\netcoreapp3.1\QueueLinkedListProject.genruntimeconfig.cache

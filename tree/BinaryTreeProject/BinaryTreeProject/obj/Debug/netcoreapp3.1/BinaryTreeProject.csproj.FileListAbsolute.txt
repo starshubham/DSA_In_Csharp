@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\bin\Debug\netcoreapp3.1\BinaryTreeProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\bin\Debug\netcoreapp3.1\BinaryTreeProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\bin\Debug\netcoreapp3.1\BinaryTreeProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\bin\Debug\netcoreapp3.1\BinaryTreeProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\bin\Debug\netcoreapp3.1\BinaryTreeProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\bin\Debug\netcoreapp3.1\BinaryTreeProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\tree\BinaryTreeProject\BinaryTreeProject\obj\Debug\netcoreapp3.1\BinaryTreeProject.genruntimeconfig.cache

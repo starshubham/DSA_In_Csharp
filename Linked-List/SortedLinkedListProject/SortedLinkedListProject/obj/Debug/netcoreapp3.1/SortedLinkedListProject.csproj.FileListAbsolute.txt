@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\bin\Debug\netcoreapp3.1\SortedLinkedListProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\bin\Debug\netcoreapp3.1\SortedLinkedListProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\bin\Debug\netcoreapp3.1\SortedLinkedListProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\bin\Debug\netcoreapp3.1\SortedLinkedListProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\bin\Debug\netcoreapp3.1\SortedLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\bin\Debug\netcoreapp3.1\SortedLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\Linked-List\SortedLinkedListProject\SortedLinkedListProject\obj\Debug\netcoreapp3.1\SortedLinkedListProject.genruntimeconfig.cache

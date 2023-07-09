@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\bin\Debug\netcoreapp3.1\Display1toN.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\bin\Debug\netcoreapp3.1\Display1toN.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\bin\Debug\netcoreapp3.1\Display1toN.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\bin\Debug\netcoreapp3.1\Display1toN.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\bin\Debug\netcoreapp3.1\Display1toN.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\bin\Debug\netcoreapp3.1\Display1toN.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\recursion\Display1toN\Display1toN\obj\Debug\netcoreapp3.1\Display1toN.genruntimeconfig.cache

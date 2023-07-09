@@ -1,0 +1,13 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\bin\Debug\netcoreapp3.1\Merging1Project.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\bin\Debug\netcoreapp3.1\Merging1Project.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\bin\Debug\netcoreapp3.1\Merging1Project.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\bin\Debug\netcoreapp3.1\Merging1Project.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\bin\Debug\netcoreapp3.1\Merging1Project.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\bin\Debug\netcoreapp3.1\Merging1Project.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\Merging1Project\Merging1Project\obj\Debug\netcoreapp3.1\Merging1Project.genruntimeconfig.cache

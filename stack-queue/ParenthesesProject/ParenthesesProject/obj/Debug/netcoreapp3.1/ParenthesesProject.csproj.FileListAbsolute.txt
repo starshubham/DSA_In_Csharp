@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\bin\Debug\netcoreapp3.1\ParenthesesProject.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\bin\Debug\netcoreapp3.1\ParenthesesProject.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\bin\Debug\netcoreapp3.1\ParenthesesProject.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\bin\Debug\netcoreapp3.1\ParenthesesProject.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\bin\Debug\netcoreapp3.1\ParenthesesProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\bin\Debug\netcoreapp3.1\ParenthesesProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\stack-queue\ParenthesesProject\ParenthesesProject\obj\Debug\netcoreapp3.1\ParenthesesProject.genruntimeconfig.cache

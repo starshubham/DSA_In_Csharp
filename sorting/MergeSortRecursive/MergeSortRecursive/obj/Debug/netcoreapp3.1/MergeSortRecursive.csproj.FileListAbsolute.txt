@@ -1,0 +1,14 @@
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\bin\Debug\netcoreapp3.1\MergeSortRecursive.exe
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\bin\Debug\netcoreapp3.1\MergeSortRecursive.deps.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\bin\Debug\netcoreapp3.1\MergeSortRecursive.runtimeconfig.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\bin\Debug\netcoreapp3.1\MergeSortRecursive.runtimeconfig.dev.json
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\bin\Debug\netcoreapp3.1\MergeSortRecursive.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\bin\Debug\netcoreapp3.1\MergeSortRecursive.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.csproj.AssemblyReference.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.AssemblyInfoInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.AssemblyInfo.cs
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.csproj.CoreCompileInputs.cache
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.dll
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.pdb
+C:\Users\shubham.seth\Desktop\DSA Practice\DSA_In_Csharp\sorting\MergeSortRecursive\MergeSortRecursive\obj\Debug\netcoreapp3.1\MergeSortRecursive.genruntimeconfig.cache
